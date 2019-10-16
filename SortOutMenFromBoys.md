@@ -1,6 +1,6 @@
 # Ref https://www.codewars.com/kata/sort-out-the-men-from-boys-1/train/javascript
 
-# Scenario
+# Scenario (7kyu)
 Now that the competition gets tough it will Sort out the men from the boys .
 
 Men are the Even numbers and Boys are the odd !alt !alt
